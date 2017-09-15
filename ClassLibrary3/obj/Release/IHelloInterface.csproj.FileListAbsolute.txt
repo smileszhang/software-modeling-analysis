@@ -1,0 +1,4 @@
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ClassLibrary3\bin\Release\ClassLibrary3.dll
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ClassLibrary3\bin\Release\ClassLibrary3.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ClassLibrary3\obj\Release\ClassLibrary3.dll
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ClassLibrary3\obj\Release\ClassLibrary3.pdb

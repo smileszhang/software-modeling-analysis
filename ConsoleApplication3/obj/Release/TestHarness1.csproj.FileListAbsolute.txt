@@ -1,0 +1,16 @@
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.exe.config
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.exe
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ClassLibrary1.dll
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ClassLibrary2.dll
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ClassLibrary3.dll
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\Queue.exe
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\XML.exe
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ClassLibrary1.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ClassLibrary2.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ClassLibrary3.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\Queue.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\XML.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Release\TestHarness1.csprojResolveAssemblyReference.cache
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.exe
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.pdb

@@ -1,0 +1,9 @@
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ClassLibrary2\bin\Release\ClassLibrary2.dll
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ClassLibrary2\bin\Release\ClassLibrary2.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ClassLibrary2\bin\Release\ClassLibrary1.dll
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ClassLibrary2\bin\Release\ClassLibrary3.dll
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ClassLibrary2\bin\Release\ClassLibrary1.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ClassLibrary2\bin\Release\ClassLibrary3.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ClassLibrary2\obj\Release\AppDomain.csprojResolveAssemblyReference.cache
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ClassLibrary2\obj\Release\ClassLibrary2.dll
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ClassLibrary2\obj\Release\ClassLibrary2.pdb

@@ -1,0 +1,11 @@
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Queue\bin\Debug\Queue.exe.config
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Queue\bin\Debug\Queue.exe
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Queue\bin\Debug\Queue.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Queue\obj\Debug\Queue.exe
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Queue\obj\Debug\Queue.pdb
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\Queue\bin\Debug\Queue.exe.config
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\Queue\bin\Debug\Queue.exe
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\Queue\bin\Debug\Queue.pdb
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\Queue\obj\Debug\Queue.exe
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\Queue\obj\Debug\Queue.pdb

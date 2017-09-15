@@ -1,0 +1,5 @@
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Queue\bin\Release\Queue.exe.config
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Queue\bin\Release\Queue.exe
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Queue\bin\Release\Queue.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Queue\obj\Release\Queue.exe
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Queue\obj\Release\Queue.pdb

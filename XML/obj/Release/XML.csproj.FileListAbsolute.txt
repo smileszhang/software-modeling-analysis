@@ -1,0 +1,5 @@
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\XML\bin\Release\XML.exe.config
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\XML\bin\Release\XML.exe
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\XML\bin\Release\XML.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\XML\obj\Release\XML.exe
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\XML\obj\Release\XML.pdb

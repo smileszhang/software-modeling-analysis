@@ -1,0 +1,12 @@
+c:\users\shiyang\documents\visual studio 2015\Projects\ConsoleApplication3\XML\bin\Debug\XML.exe.config
+c:\users\shiyang\documents\visual studio 2015\Projects\ConsoleApplication3\XML\bin\Debug\XML.exe
+c:\users\shiyang\documents\visual studio 2015\Projects\ConsoleApplication3\XML\bin\Debug\XML.pdb
+c:\users\shiyang\documents\visual studio 2015\Projects\ConsoleApplication3\XML\obj\Debug\XML.exe
+c:\users\shiyang\documents\visual studio 2015\Projects\ConsoleApplication3\XML\obj\Debug\XML.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\XML\bin\Debug\XML.exe.config
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\XML\bin\Debug\XML.exe
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\XML\bin\Debug\XML.pdb
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\XML\obj\Debug\XML.exe
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\XML\obj\Debug\XML.pdb

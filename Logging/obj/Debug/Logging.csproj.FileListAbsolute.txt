@@ -1,0 +1,14 @@
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Logging\bin\Debug\Logging.dll
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Logging\bin\Debug\Logging.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Logging\bin\Debug\XML.exe
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Logging\bin\Debug\XML.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Logging\obj\Debug\Logging.dll
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Logging\obj\Debug\Logging.pdb
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\Logging\bin\Debug\Logging.dll
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\Logging\bin\Debug\Logging.pdb
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\Logging\bin\Debug\XML.exe
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\Logging\bin\Debug\XML.pdb
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\Logging\obj\Debug\Logging.dll
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\Logging\obj\Debug\Logging.pdb

@@ -1,0 +1,10 @@
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\TestInterfaces\bin\Debug\TestInterfaces.dll
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\TestInterfaces\bin\Debug\TestInterfaces.pdb
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\TestInterfaces\obj\Debug\TestInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\TestInterfaces\obj\Debug\TestInterfaces.dll
+C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication3\TestInterfaces\obj\Debug\TestInterfaces.pdb
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\TestInterfaces\bin\Debug\TestInterfaces.dll
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\TestInterfaces\bin\Debug\TestInterfaces.pdb
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\TestInterfaces\obj\Debug\TestInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\TestInterfaces\obj\Debug\TestInterfaces.dll
+C:\Users\shiyang\Documents\学习\2016fall\681\pr2\Shiyang Zhang's project2\TestInterfaces\obj\Debug\TestInterfaces.pdb
